@@ -2,4 +2,4 @@ import streamlit as st
 
 st.title('🤖 Machine Learning App')
 
-st.write('This app build a Machine learing model!')
+st.write('This app builds a Machine learing model!')
